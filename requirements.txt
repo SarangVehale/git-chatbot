@@ -1,0 +1,11 @@
+flask
+streamlit
+requests
+langchain
+pandas
+python-docx
+python-pptx
+PyPDF2
+sqlite3
+sentence-transformers
+faiss-cpu
